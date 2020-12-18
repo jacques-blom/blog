@@ -1,6 +1,6 @@
 ## Tutorial: Mock Service Worker is the best way to mock your API
 
-I saw a [Tweet](https://twitter.com/kentcdodds/status/1251488622240395264) by Kent C Dodds recently where he mentions the Mock Service Worker library. Now that I’ve worked with it for a bit, I’m in love.
+I saw a [Tweet](https://twitter.com/kentcdodds/status/1251488622240395264) by Kent C. Dodds recently where he mentions the Mock Service Worker library. Now that I’ve worked with it for a bit, I’m in love.
 
 And it looks like a lot of other people are, too. MSW won the “Most Exciting Use of Technology” [award](https://osawards.com/javascript/2020) at this year’s JavaScript Open Source Awards.
 
@@ -255,9 +255,9 @@ I might write a separate post on how to solve caching issues with all popular da
 
 Now you know how to set up MSW to test your front end, and how to write those tests. There is still plenty more to cover. In my next post we'll look at:
 
-1. Testing POST requests (testing inserting and updating tasks)
+1. Testing POST requests (testing inserting and updating tasks).
 1. Testing requests that have route parameters.
-1. Testing the list of tasks instead of just the empty state
+1. Testing the list of tasks instead of just the empty state.
 1. What is useful to test, and what isn't.
 1. Where to put your tests.
 1. And much more.
@@ -266,7 +266,7 @@ And in a future post, I'll also cover how to set up MSW with Cypress for end-to-
 
 If you want to be notified when I release the next posts, [follow me on Twitter](https://twitter.com/intent/follow?screen_name=jacques_codes).
 
-Also feel free to [Tweet at me](https://twitter.com/jacques_codes) if you have any questions.
+Also, feel free to [Tweet at me](https://twitter.com/jacques_codes) if you have any questions.
 
 If you found this post helpful, and you think others will, too, please consider spreading the love and sharing it.
 
