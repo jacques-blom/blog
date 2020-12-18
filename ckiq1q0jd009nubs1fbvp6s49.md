@@ -270,4 +270,6 @@ Also feel free to [Tweet at me](https://twitter.com/jacques_codes) if you have a
 
 If you found this post helpful, and you think others will, too, please consider spreading the love and sharing it.
 
+%%[convertkit]
+
 
