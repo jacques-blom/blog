@@ -1,4 +1,4 @@
-## Don't use getByTestId
+## Don't use getByTestId 🐙
 
 Building interfaces that are accessible to everyone has always been a bit of a black box to me. I do know, however, that not enough apps on the web are built in an accessible way.
 
